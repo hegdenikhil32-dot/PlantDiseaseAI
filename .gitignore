@@ -1,0 +1,22 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+# Secrets and local environments
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python virtual environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Backup files
+*.bak
+*.backup*
+# Dataset files (keep local; download separately)
+data/

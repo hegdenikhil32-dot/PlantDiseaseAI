@@ -1,0 +1,13 @@
+Test Loss     : 0.1082
+Test Accuracy : 0.9670
+
+                     precision    recall  f1-score   support
+
+Tomato_Early_blight       0.95      0.93      0.94       150
+     Tomato_healthy       0.97      1.00      0.99       238
+ Tomato_Late_blight       0.98      0.94      0.96       287
+   Tomato_Leaf_Mold       0.95      1.00      0.97       143
+
+           accuracy                           0.97       818
+          macro avg       0.96      0.97      0.97       818
+       weighted avg       0.97      0.97      0.97       818
